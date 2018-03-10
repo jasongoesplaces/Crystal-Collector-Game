@@ -1,0 +1,47 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+  }
+  
+.container {
+    background-color:rgba(0, 0, 0, 0.541);
+    margin-bottom: 2%;
+  }
+  
+.header{
+    font-family: fantasy;
+    padding: 1%;
+    color: rgb(255, 255, 255)
+  }
+
+.rules{
+    font-family: fantasy;
+    margin-bottom: 10px;
+    font: 35px;
+    color: rgb(255, 255, 255);
+  }
+  
+.click{
+    width:200px;
+    height:200px;
+    margin-left: 2%;
+    margin-right: 2%;
+    cursor: pointer;
+  }
+  
+.game {
+    color: #ffffff;
+    font: 25px;
+    font-family: fantasy;
+    margin-top: 2%;
+  }
+
+#userScore{
+    font-size: 30px;
+  }
+
+#goal{
+    font-size: 30px;
+  }  
