@@ -7,7 +7,7 @@ crystals their value is added to your score. The goal is to get your score to ex
 
 ### How to Play
 
-To play this game click [here!] (https://jasongoesplaces.github.io/Crystal-Collector-Game/)
+To play this game click [here!](https://jasongoesplaces.github.io/Crystal-Collector-Game/)
 
 ### Screenshot
 
