@@ -11,4 +11,4 @@ To play this game click [here!] (https://jasongoesplaces.github.io/Crystal-Colle
 
 ### Screenshot
 
-![screenshot](screenshots/filename.png "Screenshot of app")
+![screenshot](screenshots/screenshot.png "Screenshot of app")
